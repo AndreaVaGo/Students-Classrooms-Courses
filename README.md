@@ -6,3 +6,6 @@ Las tablas normalizadas (Estudiante, Aula, Curso, Aula_Curso) con los datos real
 
 ## Diagrama entidad-relación (Chen)
 ![Diagrama ER de Chen](./assets/diagrama-chen.png)
+
+## Diagrama de base de datos (patas de gallo / UML)
+![Diagrama patas de gallo](./assets/diagrama-patas-de-gallo.png)
